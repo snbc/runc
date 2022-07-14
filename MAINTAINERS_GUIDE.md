@@ -22,12 +22,23 @@ speak up!
 
 It is every maintainer's responsibility to:
 
-* 1) Expose a clear roadmap for improving their component.
-* 2) Deliver prompt feedback and decisions on pull requests.
-* 3) Be available to anyone with questions, bug reports, criticism etc.
-  on their component. This includes IRC and GitHub issues and pull requests.
-* 4) Make sure their component respects the philosophy, design and
-  roadmap of the project.
+* 
+
+  1. Expose a clear roadmap for improving their component.
+
+* 
+
+  1. Deliver prompt feedback and decisions on pull requests.
+
+* 
+
+  1. Be available to anyone with questions, bug reports, criticism etc.
+     on their component. This includes IRC and GitHub issues and pull requests.
+
+* 
+
+  1. Make sure their component respects the philosophy, design and
+     roadmap of the project.
 
 ## How are decisions made?
 
@@ -50,8 +61,8 @@ All decisions affecting runc, big and small, follow the same 3 steps:
 
 * Step 2: Discuss the pull request. Anyone can do this.
 
-* Step 3: Accept (`LGTM`) or refuse a pull request. The relevant maintainers do 
-this (see below "Who decides what?")
+* Step 3: Accept (`LGTM`) or refuse a pull request. The relevant maintainers do
+  this (see below "Who decides what?")
 
 *I'm a maintainer, should I make pull requests too?*
 
@@ -84,7 +95,6 @@ and brought to the technical oversight board if two-thirds of the
 maintainers vote for an appeal. It is expected that this would be a
 very exceptional event.
 
-
 ### How are maintainers added?
 
 The best maintainers have a vested interest in the project.  Maintainers
@@ -101,7 +111,6 @@ maintainers with the chief maintainer having veto power.  In case of a veto,
 conflict resolution rules expressed above apply.  The voting period is
 five business days on the Pull Request to add the new maintainer.
 
-
 ### What is expected of maintainers?
 
 Part of a healthy project is to have active maintainers to support the community
@@ -115,6 +124,3 @@ a vote by 66% of the current maintainers with the chief maintainer having veto p
 The voting period is ten business days.  Issues related to a maintainer's performance should
 be discussed with them among the other maintainers so that they are not surprised by
 a pull request removing them.
-
-
-
